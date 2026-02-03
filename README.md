@@ -13,9 +13,9 @@ Elle permet de calculer le nombre de sites (eNodeB) nécessaires pour couvrir un
 
 Vous n'avez rien à installer. Cliquez simplement sur le bouton ci-dessous pour ouvrir l'outil :
 
-[![Run on Replit](https://replit.com/badge/github/TON_USER/TON_REPO)](https://replit.com/github/TON_USER/TON_REPO)
+[![Run on Replit](https://replit.com/badge/github/mouhatech/RESEAU-MOBILE)](https://ca564eea-f787-4b83-825e-2836210bde81-00-34yjx21zji329.janeway.replit.dev/)
 
-*(Sur Replit, cliquez sur le bouton vert "Run" et l'application s'ouvrira dans un nouvel onglet Web).*
+
 
 ## ✨ Fonctionnalités
 
