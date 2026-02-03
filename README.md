@@ -32,4 +32,4 @@ Vous n'avez rien à installer. Cliquez simplement sur le bouton ci-dessous pour 
 * **Graphiques :** Matplotlib
 
 ## 👤 Auteur
-[TON NOM]
+M.M.B 
