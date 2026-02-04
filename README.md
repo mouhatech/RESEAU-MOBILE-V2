@@ -13,7 +13,7 @@ Elle permet de calculer le nombre de sites (eNodeB) nécessaires pour couvrir un
 
 Vous n'avez rien à installer. Cliquez simplement sur le bouton ci-dessous pour ouvrir l'outil :
 
-[![Run on Streamlit](https://share.streamlit.io/user/mouhatech)](https://dimensionnement-lte.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Lancer_l'application-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://dimensionnement-lte.streamlit.app/)
 
 
 
