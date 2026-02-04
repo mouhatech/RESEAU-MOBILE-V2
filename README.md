@@ -13,7 +13,7 @@ Elle permet de calculer le nombre de sites (eNodeB) nécessaires pour couvrir un
 
 Vous n'avez rien à installer. Cliquez simplement sur le bouton ci-dessous pour ouvrir l'outil :
 
-[![Run on Replit](https://replit.com/badge/github/mouhatech/RESEAU-MOBILE)](https://dimensionnement-lte.streamlit.app/)
+[![Run on Streamlit](https://share.streamlit.io/user/mouhatech)](https://dimensionnement-lte.streamlit.app/)
 
 
 
